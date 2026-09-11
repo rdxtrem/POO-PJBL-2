@@ -14,9 +14,9 @@
 | 1 | Boas-vindas e computador pronto | ✅ | 2026-09-11 |
 | 2 | Cofre do código (Git + GitHub) | ✅ | 2026-09-11 |
 | 3 | Requisitos | ✅ | 2026-09-11 |
-| 4 | Plano | ▶ agora | |
-| 5 | Fundação | 🔒 | |
-| 6 | Construção | 🔒 | |
+| 4 | Plano | ✅ | 2026-09-11 |
+| 5 | Fundação | ✅ | 2026-09-11 |
+| 6 | Construção | ▶ agora | |
 | 7 | Segurança | 🔒 | |
 | 8 | Publicação e rotina | 🔒 | |
 
@@ -24,7 +24,7 @@
 
 ## ▶ PRÓXIMO PASSO
 
-**Etapa 4** — Validar com Rosivaldo o plano de trabalho no [ROADMAP.md](file:///workspaces/POO-PJBL-2/ROADMAP.md) para liberar o início da **Etapa 5 (Fundação / Criação do projeto Java Spring Boot)**.
+**ROADMAP 1.1** — Implementar Gestão de Usuários, Perfis e Autenticação básica com tela de login (RF-10, RN-08).
 
 ## 🟡 Em andamento (onde parei dentro do passo)
 

@@ -14,11 +14,11 @@
 ## Fase 0 — Fundação (Etapa 5)
 | # | Item | Status | O que o usuário vê |
 |---|---|---|---|
-| 0.1 | Ferramentas da stack validadas (Java 25 LTS, Maven 3.9, Node) | 🔵 | Comandos respondem sem erro no terminal |
-| 0.2 | Configuração de variáveis e `.env` do banco MySQL/H2 | 🔵 | `.env` configurado e seguro fora do Git |
-| 0.3 | Inicialização do esqueleto Spring Boot 3 + `start.sh` | 🔵 | Página web inicial abre no navegador |
-| 0.4 | Conexão com banco + primeira entidade JPA protegida + `/health` | 🔵 | Endpoint de health retornando status UP |
-| 0.5 | Script de verificação contínua `scripts/smoke.sh` + `NOTAS.md` | 🔵 | Smoke test 1/1 passando verde |
+| 0.1 | Ferramentas da stack validadas (Java 25 LTS, Maven 3.9, Node) | ✅ | Comandos respondem sem erro no terminal |
+| 0.2 | Configuração de variáveis e `.env` do banco MySQL/H2 | ✅ | `.env` configurado e seguro fora do Git |
+| 0.3 | Inicialização do esqueleto Spring Boot 3 + `start.sh` | ✅ | Página web inicial abre no navegador |
+| 0.4 | Conexão com banco + primeira entidade JPA protegida + `/health` | ✅ | Endpoint de health retornando status UP |
+| 0.5 | Script de verificação contínua `scripts/smoke.sh` + `NOTAS.md` | ✅ | Smoke test 3/3 passando verde |
 
 ---
 

@@ -132,14 +132,14 @@
 - **O que é:** Sistema Semeando – Gestão Escolar: plataforma web para gestão integrada administrativa, acadêmica, financeira e documental escolar (Maternal 1 ao 5º ano).
 - **Stack:** Java 25 (Spring Boot 3.x), MySQL, Front-end Web (HTML5/CSS3/Bootstrap/JS), JUnit 5.
 - **Princípio de arquitetura:** Controller fino → Service (regras de negócio e auditoria) → Repository (Spring Data JPA) → Entities (POO com encapsulamento e integridade).
-- **Como ligar:** `bash start.sh` _(Etapa 5)_
+- **Como ligar:** `bash start.sh`
 
 | Validação | Comando | Esperado |
 |---|---|---|
-| Tipos / compilação | _(Etapa 5)_ | zero erros |
-| Lint | _(Etapa 5)_ | zero erros |
+| Tipos / compilação | `mvn test-compile` | zero erros |
+| Testes unitários | `mvn test` | zero erros |
 | Smoke (rotas vivas) | `bash scripts/smoke.sh` | 0 falhas e total ≥ última contagem |
-| Jornada principal (E2E) | _(Etapa 6)_ | N/N |
+| Jornada principal (E2E) | `bash scripts/e2e_jornada.sh` _(Etapa 6)_ | N/N |
 
 ## 8. Documentos: um fato, um lugar
 
