@@ -12,9 +12,9 @@
 | # | Etapa | Status | Concluída em |
 |---|---|---|---|
 | 1 | Boas-vindas e computador pronto | ✅ | 2026-09-11 |
-| 2 | Cofre do código (Git + GitHub) | ▶ agora | |
-| 3 | Requisitos | 🔒 | |
-| 4 | Plano | 🔒 | |
+| 2 | Cofre do código (Git + GitHub) | ✅ | 2026-09-11 |
+| 3 | Requisitos | ✅ | 2026-09-11 |
+| 4 | Plano | ▶ agora | |
 | 5 | Fundação | 🔒 | |
 | 6 | Construção | 🔒 | |
 | 7 | Segurança | 🔒 | |
@@ -24,7 +24,7 @@
 
 ## ▶ PRÓXIMO PASSO
 
-**Etapa 2, passo 2.4** — Criar `.gitignore` para Java/Maven/Node e `.env.example`, conferir proteção de credenciais e fazer o commit de blindagem do repositório.
+**Etapa 4** — Validar com Rosivaldo o plano de trabalho no [ROADMAP.md](file:///workspaces/POO-PJBL-2/ROADMAP.md) para liberar o início da **Etapa 5 (Fundação / Criação do projeto Java Spring Boot)**.
 
 ## 🟡 Em andamento (onde parei dentro do passo)
 

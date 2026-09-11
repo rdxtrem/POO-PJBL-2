@@ -129,9 +129,9 @@
 
 ## 7. Contexto do projeto (preenchido nas Etapas 4 e 5)
 
-- **O que é:** _(Etapa 4)_
-- **Stack:** _(Etapa 4)_
-- **Princípio de arquitetura:** _(Etapa 4)_
+- **O que é:** Sistema Semeando – Gestão Escolar: plataforma web para gestão integrada administrativa, acadêmica, financeira e documental escolar (Maternal 1 ao 5º ano).
+- **Stack:** Java 25 (Spring Boot 3.x), MySQL, Front-end Web (HTML5/CSS3/Bootstrap/JS), JUnit 5.
+- **Princípio de arquitetura:** Controller fino → Service (regras de negócio e auditoria) → Repository (Spring Data JPA) → Entities (POO com encapsulamento e integridade).
 - **Como ligar:** `bash start.sh` _(Etapa 5)_
 
 | Validação | Comando | Esperado |
